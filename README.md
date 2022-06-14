@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Flashcards: Make and Study
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A React web application used to optimize study time and effectiveness. Users can create, edit, and delete new study decks and cards.
 
-## Available Scripts
+## Technology
+- JavaScript
+- React
+- Node
+- npm
 
-In the project directory, you can run:
+## Screenshots
+### Home | Create, view, study, or delete a deck.
+<img src= "https://64.media.tumblr.com/b38b74cb091dc728567098c1be5e484c/c81457c402c54c9c-c8/s640x960/2ef188510586fc7b549a458fc7d624b369f06e6f.png" width="400">
 
-### `npm start`
+### Create Deck | Create a new flashcard deck with a custom name and description.
+<img src= "https://64.media.tumblr.com/ae00ec93e93778ddafd97bcd78a551c6/d6a298afa11a6987-41/s640x960/d1a41d7dfa38df757519309df0d4e31aec12d115.png" width="400">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### View Deck | View the cards in a deck. From here you can edit or delete the deck, add new cards, and edit or delete existing cards.
+<img src= "https://64.media.tumblr.com/606607b7a227ae3af7d731f91c7c1710/fdfd564b1f3b0606-26/s640x960/cd304646bf1e3621ed77fe34e293430fa2b93a18.png" width="400">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Edit Deck | Edit the deck name and/or description.
+<img src= "https://64.media.tumblr.com/abce5d856ffe017d1a7a50ce07192dde/0e559f53e35b074e-96/s640x960/638414798a7a5f693b95234fac1ceecb579be302.png" width="400">
 
-### `npm test`
+### Study | Move through your flashcards. You can view the back of the card by pressing the flip button.
+<img src= "https://64.media.tumblr.com/b6121b9ec23db728c745c56a2905315a/fd4ddeaa61380add-0c/s640x960/dfee2e77c056396234bc1a44c4c2ee3ce1c89d66.png" width="400">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Add Card | Add new cards to the current deck and set the text for the front and the back of the card.
+<img src= "https://64.media.tumblr.com/1c692d743ffcec2081926b8913aab3ea/a67847e24c95c485-6f/s640x960/91b842510f569ec15dd99d994a259184b7a94bcc.png" width="400">
 
-### `npm run build`
+### Edit Card | Change the text on the front and/or back of any card in the current deck.
+<img src= "https://64.media.tumblr.com/456f70cfc00497a8e2b6857b84965434/15a03fdeff9eb96a-a8/s640x960/d5c04edc08dad06a3c5477b831921876db9231bc.png" width="400">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
